@@ -34,10 +34,10 @@ class Global
     "assets/images/diwalimain.webp",
   ];
 
-  String? contactName;
-  String? contactEmail;
-  String? contactPhone;
-  String? contactAdd;
+  String? userName;
+  String? userEmail;
+  String? userPhone;
+  String? userAdd;
   String? profileImage;
 
   List<MaptoModel> myfestival=[];

@@ -13,9 +13,9 @@ class MaptoModel
 
 class FestivalModel
 {
-  String? name,image;
+  String? name,image,disc;
   List<String> imageList =[];
 
-  FestivalModel(this.name,this.image,this.imageList);
+  FestivalModel(this.name,this.image,this.imageList,this.disc);
 
 }
