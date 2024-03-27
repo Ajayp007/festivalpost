@@ -154,19 +154,6 @@ class _EditScreenState extends State<EditScreen> {
                             const SizedBox(
                               height: 20,
                             ),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceAround,
-                              children: [
-                                Text(
-                                  "${g1.userName}",
-                                  style: const TextStyle(fontSize: 20),
-                                ),
-                                Text(
-                                  "${g1.userPhone}",
-                                  style: const TextStyle(fontSize: 20),
-                                ),
-                              ],
-                            ),
                           ],
                         ),
                       ),
