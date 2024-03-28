@@ -1,3 +1,14 @@
+#FestivalPost App UI
+
+1.First HomeScreen Created And Click On The Post Which Post You Want.
+
+2.Secound Screen Is Edit Screen Which You Want Some Difrent Images And Backgrounds And Also Change Fonts Colors.
+
+3.In HomeScreen Also Created User Infrormetion Screen Which You Will Feel Some Detailes About You.
+
+` Thank You `
+
+
 <p>
   <img src="https://github.com/Ajayp007/festivalpost/assets/156168895/de825399-09d4-48bf-992c-09dbe5f056d8" height="600",width="300">
   <img src="https://github.com/Ajayp007/festivalpost/assets/156168895/7f30d282-d974-4d5b-93fd-e06801ee49f6" height="600",width="300">
